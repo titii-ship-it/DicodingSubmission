@@ -17,7 +17,7 @@ Proyek ini mencakup:
 
 ### Persiapan
 
-Sumber data: [Dataset Students Performance Dicoding]('https://github.com/dicodingacademy/dicoding_dataset/blob/main/students_performance/data.csv)
+Sumber data: [Dataset Students Performance Dicoding](https://github.com/dicodingacademy/dicoding_dataset/blob/main/students_performance/data.csv)
 
 Setup environment:
 ```
@@ -43,7 +43,7 @@ streamlit run app.py
 ```
 
 Atau akses prototipe online:
-🧠 Streamlit App Link: [Prototipe Streamlit]('https://titii-ship-it-dicodingsubmission-app-19c7wt.streamlit.app/')
+🧠 Streamlit App Link: [Prototipe Streamlit](https://titii-ship-it-dicodingsubmission-app-19c7wt.streamlit.app/)
 
 ## Conclusion
 Model machine learning yang dibangun menggunakan Random Forest Classifier berhasil mencapai akurasi ~77%, dengan f1-score terbaik untuk kelas Graduate dan Dropout. Prototipe sistem ini dapat digunakan untuk:
