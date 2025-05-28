@@ -43,12 +43,18 @@ streamlit run app.py
 ```
 
 Atau akses prototipe online:
-🧠 Streamlit App Link: [Prototipe Streamlit]('')
+🧠 Streamlit App Link: [Prototipe Streamlit]('https://titii-ship-it-dicodingsubmission-app-19c7wt.streamlit.app/')
 
 ## Conclusion
-Jelaskan konklusi dari proyek yang dikerjakan.
+Model machine learning yang dibangun menggunakan Random Forest Classifier berhasil mencapai akurasi ~77%, dengan f1-score terbaik untuk kelas Graduate dan Dropout. Prototipe sistem ini dapat digunakan untuk:
+- Mengidentifikasi mahasiswa berisiko tinggi sejak awal
+- Membantu tim akademik melakukan intervensi tepat waktu
+- Memberikan dasar pengambilan keputusan berbasis data
 
 ### Rekomendasi Action Items
-Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
-- action item 1
-- action item 2
+1. Implementasi Sistem Prediksi Dropout dan Intervensi Dini <br>
+   Gunakan sistem machine learning untuk mengidentifikasi mahasiswa yang berisiko tinggi mengalami dropout secara berkala. Hasil prediksi ini dapat digunakan oleh manajemen akademik untuk melakukan intervensi dini seperti konseling, dukungan finansial, atau program mentoring.
+2. Optimalisasi Dukungan Akademik dan Finansial <br>
+   Tingkatkan akses mahasiswa terhadap program beasiswa, terutama bagi yang mengalami kesulitan finansial agar tidak bergantung pada hutang. Selain itu, lakukan pengawasan khusus terhadap mahasiswa di kelas malam dan mereka yang menunjukkan performa akademik rendah di semester awal.
+3. Evaluasi dan Penyesuaian Kurikulum Mata Kuliah Risiko Tinggi <br>
+   Lakukan analisis terhadap mata kuliah dengan tingkat kegagalan atau dropout tinggi, seperti mata kuliah manajemen. Gunakan data ini untuk meninjau kembali metode pengajaran, beban tugas, dan efektivitas kurikulum agar lebih adaptif terhadap kebutuhan mahasiswa.
